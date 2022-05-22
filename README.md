@@ -1,2 +1,2 @@
 # GeekBrains
-Обучение на портали GeekBrains (Инженер IoT).
+Обучение на портале GeekBrains (Инженер IoT).
